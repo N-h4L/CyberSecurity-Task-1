@@ -1,0 +1,11 @@
+OWASP Top 10 – https://owasp.org/www-project-top-ten/
+OWASP Cheat Sheet Series – https://cheatsheetseries.owasp.org/
+CISA Cybersecurity – https://www.cisa.gov/cybersecurity
+NIST Cybersecurity Framework – https://www.nist.gov/cyberframework
+Google Cloud Security – https://cloud.google.com/security
+AWS Security – https://aws.amazon.com/security/
+Microsoft Security Documentation – https://learn.microsoft.com/en-us/security/
+PortSwigger Web Security Academy – https://portswigger.net/web-security
+Android Security Best Practices – https://developer.android.com/privacy-and-security
+TryHackMe Learning Platform – https://tryhackme.com
+Hack The Box – https://www.hackthebox.com
